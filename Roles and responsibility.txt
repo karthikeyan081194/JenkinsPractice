@@ -1,0 +1,74 @@
+SELF INTRO
+----------
+1)Hi this is karthikeyan,currently working in Q2M technologies for 2.2 years in both automation and Manual.
+2)I worked on different domain such as Retail & Healthcare.
+3)My current project of retail which is UK based client.
+4)In that we follow agile Methodoloy with 2 week of sprint.
+5)In the current project we use Maven as Build Management tool,
+6)we use design pattern such as Page object model which is used to mainten the locator and
+improve code reuseablity 
+7)For maintain test data we use Datadriven framework with use of apache poi dependency.
+8)We use Jira as Defect tracking tool,GIt->Source code management tool.
+9)Apart from this i have experience on other framework such as TDD testNG which we used to
+execute parallel and cross browser experience.
+
+
+ROLES AND RESPONSIBILITY
+------------------------
+My current roles and responsibility majorly into all the testing activities.
+
+Once the requirement comes to me i will understand the requirements.
+
+if i have any doubts in the requirements i will ask for the walk through session.
+
+BA will give me the proper walk through session on the requirement that i hold.
+
+and after the walk through session ill be very clear with what is the testing that i have to perform.
+
+So i can easily scope what to test and what not to test.
+
+After that i ll be asking for the application access.
+
+In mean time my team lead will prepare a test strategy and test plan document and once the
+
+planning is done we ll go the test case design.
+
+Since i know the requirements, i will writing the testcases.
+
+For manual stories we ll go for the manual test cases and for automated stories i need to create
+automated test cases.
+
+So we will be waiting for the build to come.
+
+after creating the testcases and for all the testcases i will be in need of test data.
+
+And after creating test data ill go for the reviews Of my testcases.
+
+There are three level of reviews one is peer review, next is lead review and BA review.
+
+So after completing these review i might have some review comments which i havent covered
+before.
+
+Ill update the review comments and resubmit my test caes for reviewing it and i will het it approved.
+
+Once i got approved ill be waiting for the build from the developer to come to me.
+
+and once the developer gives me the build i will start executing manually for manual test cases and
+my scripts will execute the automated test cases like automation related functionalities.
+
+So we will following all the retesting, regression, sanity and smoke based testing on the time
+which the project might ask and we will be executing every single stories.
+in case of any bugs we will raise bug.
+and entire defect management will happen over there
+
+after the developer has fixed the bug ill perform retesting.
+
+and in that way ill rerunning all the
+failed testcases and complete the execution on time.
+
+Once the execution is completed ill be closing my stories and thereby we ll be closing one by one
+stories and we ll be giving signoff to our client.
+
+my daily job routines attending the sprint calls, stand-up calls
+and sprint meetings and part of the sprint planning and everything. So majorly i am involved into
+those activities.
