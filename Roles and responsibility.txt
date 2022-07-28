@@ -1,5 +1,5 @@
 SELF INTRODUCTION
-----------
+-----------------
 1)Hi this is karthikeyan,currently working in Q2M technologies for 2.2 years in both automation and Manual.
 2)I worked on different domain such as Retail & Healthcare.
 3)My current project of retail which is UK based client.
@@ -8,7 +8,7 @@ SELF INTRODUCTION
 6)we use design pattern such as Page object model which is used to mainten the locator and
 improve code reuseablity 
 7)For maintain test data we use Datadriven framework with use of apache poi dependency.
-8)We use Jira as Defect tracking tool,GIt->Source code management tool.
+8)We use Jira as Defect tracking tool,GIT->Source code management tool or version control.
 9)Apart from this i have experience on other framework such as TDD testNG which we used to
 execute parallel and cross browser experience.
 
